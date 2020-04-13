@@ -1,0 +1,17 @@
+{
+  "name": "com.github.gustavosbarreto.qml-viewer",
+  "author": {
+    "name": "Luis Gustavo S. Barreto",
+    "email": "gustavosbarreto@gmail.com"
+  },
+  "repository": {
+    "type": "GIT"
+  },
+  "version": {
+    "label": "0.0.1"
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "priFilename": "qml-viewer.pri"
+}

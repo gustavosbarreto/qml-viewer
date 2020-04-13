@@ -1,0 +1,7 @@
+
+<RCC>
+    <qresource prefix="/com/github/gustavosbarreto/qml-viewer">
+        <file>qmldir</file>
+	<file>qml/main.qml</file>
+    </qresource>
+</RCC>
